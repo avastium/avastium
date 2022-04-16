@@ -1,10 +1,11 @@
-### Hi, I’m @avastium, Fullstack Web Developer <img src="wave.gif" width="30px">
+### Hi, I’m @Avastium, Fullstack Web Developer <img src="wave.gif" width="30px">
 
 ![https://t.me/avastium](https://img.shields.io/badge/Telegram-@Avastium-informational?style=for-the-badge&logo=telegram&color=26A5E4)
 
-![Metrics](https://metrics.lecoq.io/avastium?template=classic&config.timezone=Europe%2FMinsk)
+![](https://metrics.lecoq.io/avastium?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FMinsk)
 
-| ![](https://github-readme-stats.vercel.app/api?username=avastium&count_private=true&show_icons=true&theme=dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avastium&langs_count=8&layout=compact&theme=dark&hide_border=true) |
+![](https://github-readme-stats.vercel.app/api?username=avastium&count_private=true&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avastium&langs_count=8&layout=compact&theme=dark&hide_border=true) 
 
 # Skills
 ![](https://img.shields.io/badge/JavaScript-3%20yr.-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
