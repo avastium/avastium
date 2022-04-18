@@ -2,10 +2,10 @@
 
 ![https://t.me/avastium](https://img.shields.io/badge/Telegram-@Avastium-informational?style=for-the-badge&logo=telegram&color=26A5E4)
 
-![](https://metrics.lecoq.io/avastium?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FMinsk)
-
 ![](https://github-readme-stats.vercel.app/api?username=avastium&count_private=true&show_icons=true&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avastium&langs_count=8&layout=compact&theme=dark&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avastium&langs_count=8&layout=compact&theme=dark&hide_border=true)
+
+![](https://metrics.lecoq.io/avastium?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FMinsk)
 
 # Skills
 ![](https://img.shields.io/badge/JavaScript-3%20yr.-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
