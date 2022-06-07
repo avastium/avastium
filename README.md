@@ -1,4 +1,4 @@
-### Hi, I’m @Avastium, Fullstack Web Developer <img src="wave.gif" width="30px">
+### Hi, I’m @Avastium, Fullstack Web Developer
 
 ![https://t.me/avastium](https://img.shields.io/badge/Telegram-@Avastium-informational?style=for-the-badge&logo=telegram&color=26A5E4)
 
