@@ -12,10 +12,7 @@
 ![](https://img.shields.io/badge/Node.js-1%20yr.-informational?style=for-the-badge&logo=node.js&logoColor=339933&color=339933)
 ![](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2b%2b&logoColor=white&color=00599C)
-
-![](https://img.shields.io/badge/React.JS-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)
-![](https://img.shields.io/badge/Redux--Saga-informational?style=for-the-badge&logo=redux-saga&logoColor=white&color=999999)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 
 ![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=4479A1)
